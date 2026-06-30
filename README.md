@@ -1,5 +1,8 @@
 # XtenHire AI
 
+## Live Demo
+https://xtenhire-ai.streamlit.app
+
 **Hire Smarter. Rank Faster.**
 
 XtenHire AI is a mini ATS (Applicant Tracking System) for resume intelligence and candidate ranking. HR uploads a job description, uploads multiple resumes, and receives AI-assisted ranking, skill gaps, candidate insights, analytics, and exportable hiring reports.
