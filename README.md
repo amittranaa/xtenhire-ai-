@@ -1,7 +1,40 @@
 # XtenHire AI
 
-## Live Demo
+## 🚀 Live Demo
+
 https://xtenhire-ai.streamlit.app
+
+---
+
+## 📸 Application Screenshots
+
+### Dashboard
+
+<img src="screenshots/dashboard.png" width="900">
+
+---
+
+### Resume Screening
+
+<img src="screenshots/resume-screening.png" width="900">
+
+---
+
+### Candidate Ranking
+
+<img src="screenshots/candidate-ranking.png" width="900">
+
+---
+
+### Analytics
+
+<img src="screenshots/analytics.png" width="900">
+
+---
+
+### Reports
+
+<img src="screenshots/reports.png" width="900">
 
 **Hire Smarter. Rank Faster.**
 
